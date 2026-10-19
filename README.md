@@ -36,3 +36,10 @@ Then open `http://localhost:8000`.
 - Replace the abstract gallery tiles with your own event photographs.
 - Replace sample testimonial cards with genuine client feedback.
 - The contact form currently opens the visitor's email app. Connect a static form service such as Formspree if you need browser-based submissions.
+
+## Design assets
+
+- Display typography: Playfair Display
+- Interface typography: DM Sans
+- Demo event photography: Unsplash, loaded through optimized image URLs
+- JavaScript rotates the demo photography on each page visit while keeping event categories relevant.
